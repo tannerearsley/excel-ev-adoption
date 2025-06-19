@@ -27,6 +27,8 @@
 
 ## Included Files
 - ElectricVehicleProject.xlsx → Contains uncleaned original data, cleaned dataset, pivot tables, and dashboards
+- California_Sales_Dashboard.png → Screenshot of California Sales Dashboard
+- 2023_Sales_Dashboard.png → Screenshot of 2023 Sales Dashboard
 
 ---
 
