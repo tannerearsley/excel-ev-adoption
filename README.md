@@ -27,12 +27,12 @@
 
 ## Included Files
 - ElectricVehicleProject.xlsx → Contains uncleaned original data, cleaned dataset, pivot tables, and dashboards
-- Electric_Vehicle_Population_Data → Original, uncleaned dataset
 
 ---
 
 ## Notes
 - Original Data Source: https://catalog.data.gov/dataset/electric-vehicle-population-data
 - Built entirely by me, using only Excel
+- Original Dataset is too large for me to upload directly to GitHub. Check it out in the link above
 
 ---
