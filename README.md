@@ -1,5 +1,5 @@
 # ev-adoption-excel
-- Electric Vehicle Dashboards - U.S. Adoption
+Electric Vehicle Dashboards - U.S. Adoption
 - By Tanner Earsley
 - Created 6/18/2025
   
